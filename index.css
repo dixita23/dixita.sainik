@@ -1,0 +1,27 @@
+.navbar-brand{
+    color:grey;
+    font-size: xx-large;
+
+}
+#x{
+    color:green;
+}
+.xx{
+    color: white;
+}
+
+
+.carousel-item{
+    height: 100vh;
+    background: rgba(0,0,0,0.7);
+    height: 100vh;
+}
+
+.img{
+    height:50vh;
+    width: 30rem;
+}
+
+.col{
+    text-align: center;
+}

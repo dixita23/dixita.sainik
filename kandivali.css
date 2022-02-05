@@ -1,0 +1,29 @@
+.navbar-brand{
+    color:grey;
+    font-size: xx-large
+
+}
+#x{
+    color:green;
+}
+.xx{
+    color: white;
+}
+
+.card-img-top{
+    height: 50vh;
+}
+.col{
+    text-align: center;
+}
+
+.gallery{
+    transition: 0.5s;
+}
+
+.card:hover{
+    z-index: 1;
+    transform: scale(1.0);
+    box-shadow:0 25px 40px rgba(0,0,0,0.5);
+    
+}
